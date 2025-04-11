@@ -1,4 +1,5 @@
 body {
+  background-color: rgb(2, 2, 72);
   margin: auto;
   width: 100%;
 }
@@ -33,7 +34,7 @@ header {
 .center-header nav a {
   margin: 0 10px;
   text-decoration: none;
-  color: #333;
+  color: rgb(233, 233, 237);
 }
 footer {
   position: absolute;
@@ -46,8 +47,8 @@ footer {
   margin: 15px;
 }
 footer a i {
-  color: rgb(2, 2, 81); /* or use #000080 for a specific navy tone */
-  font-size: 36px; 
-  margin: 0 10px; optional: space between icons
+  color: rgb(233, 233, 237);
+  font-size: 36px;
+  margin: 0 10px;
   transition: color 0.3s;
 }
