@@ -18,3 +18,36 @@ header {
 #youtube {
   width: 20.5%;
 }
+.center-header {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.center-header nav {
+  margin-top: 10px;
+}
+
+.center-header nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+}
+footer {
+  position: absolute;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  bottom: 0;
+  left: 42%;
+  margin: 15px;
+}
+footer a i {
+  color: rgb(2, 2, 81); /* or use #000080 for a specific navy tone */
+  font-size: 36px; 
+  margin: 0 10px; optional: space between icons
+  transition: color 0.3s;
+}
