@@ -9,7 +9,8 @@ header {
   flex-direction: column;
   font-weight: 500;
   font-size: large;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 #logo {
   width: 15%;
