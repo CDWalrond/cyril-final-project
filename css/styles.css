@@ -37,7 +37,7 @@ header {
   color: rgb(233, 233, 237);
 }
 footer {
-  position: fixed;
+  position: below;
   text-align: center;
   display: flex;
   flex-direction: row;
